@@ -1,1 +1,1 @@
-# Horror-Movie-Script-Generator
+# AI-Art-Detector
