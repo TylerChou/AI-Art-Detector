@@ -10,7 +10,7 @@ Rankings of AI Art Generators by realism or accuracy:
 2. Imagen 7.27 (Partner to Parti, uses Diffusion)
 3. Lafite 8.12
 4. XMC-GAN 9.33 (https://github.com/google-research/xmcgan_image_generation)
-5. DALL-E 2 10.39
+5. DALL-E 2 10.39 (https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
 
 Reverse Image Search (May be useful as an end-step):
 
